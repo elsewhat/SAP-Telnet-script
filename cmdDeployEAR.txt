@@ -1,0 +1,6 @@
+#Deploy an ear file
+#Before the script is run, place the ear file under C:\usr\sap\<SID>\JC00\j2ee\cluster\server0
+#In this example we deploy the ear file MDBTestEar.ear
+JUMP 0
+ADD DEPLOY
+DEPLOY MDBTestEar.ear

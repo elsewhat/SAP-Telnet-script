@@ -1,0 +1,9 @@
+#Script for restarting the irj application
+#jump to server node
+JUMP 0
+#add deploy command set
+ADD DEPLOY
+#stop the application synchronously
+STOP_APP irj -synchron
+#start the application 
+START_APP irj -synchron

@@ -1,0 +1,4 @@
+#Script for restarting the JMS service
+JUMP 0
+STOPSERVICE 0 jms_provider
+STARTSERVICE 0 jms_provider

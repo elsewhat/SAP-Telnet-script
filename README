@@ -1,0 +1,1 @@
+SAPTelnetScript is a Java program that allows you to run batch scripts against the SAP J2EE TELNET interface. This can drastically shorten the time needed for certain low-level operations and provide a means to run scheduled jobs, such as the restart of J2EE applications, by combining it with crontab or other job scheduling tools.

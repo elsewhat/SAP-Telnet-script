@@ -1,0 +1,15 @@
+jump 0
+lsc
+ll -i
+ll
+ll
+ll
+ll
+ll
+ll
+nobrainer
+ll
+ll
+ll
+ll
+ll

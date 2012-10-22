@@ -1,0 +1,4 @@
+#Script for clearing HTTP cache
+JUMP 0
+ADD HTTP
+CLEAR_HTTP_CACHE

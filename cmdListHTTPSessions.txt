@@ -1,0 +1,4 @@
+#Script listing all HTTP sessions
+JUMP 0
+ADD SERVLET_JSP
+HTTP_SESSIONS full

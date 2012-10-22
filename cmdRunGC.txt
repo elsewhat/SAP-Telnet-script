@@ -1,0 +1,3 @@
+#Script running garbage collection
+JUMP 0
+GC
